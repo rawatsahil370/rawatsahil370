@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sahil Rawat  , Aspiring Data Analyst with hands-on experience in SQL, Python (Pandas, NumPy), and Power BI.<br>Experienced in data cleaning, exploratory data analysis, and KPI dashboard development.<br>Built projects in revenue analysis and customer churn prediction.<br>Focused on turning complex datasets into actionable business insights.
+I'm Sahil Rawat  , Aspiring Data Analyst with hands-on experience in SQL, Python (Pandas, NumPy), and Power BI.<br>Experienced in data cleaning, exploratory data analysis, and KPI dashboard development.<br>Built projects in revenue analysis and customer churn prediction.<br>Focused on turning complex datasets into actionable business insights.<br><br>Programming & Querying: SQL, Python<br>Data Visualization Tools: Advanced MS Excel, Power BI<br>Analytical Abilities: Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Descriptive Statistics
 
 
 ## 🌐 Socials:
